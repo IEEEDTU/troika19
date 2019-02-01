@@ -22,7 +22,7 @@ a.active{outline:0;text-decoration:none;}
 .navbar-default .navbar-nav>.active>a{border-radius:0;color:#45A29E;background-color:#1F2833;}
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus{color:black;background-color:#c5c6c7;}
-.card{width:90%;}
+.card{width:88%;}
 @media only screen and (max-width:768px){.navbar-default{border:0;background-color:rgba(102, 252, 241, 0.9);-webkit-transition:padding .3s;-moz-transition:padding .3s;transition:padding .3s;}
 .navbar-default .navbar-brand{font-size:2em;-webkit-transition:all .3s;-moz-transition:all .3s;transition:all .3s;}
 .navbar-default .navbar-nav>.active>a{border-radius:3px;}
